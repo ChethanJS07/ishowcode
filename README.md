@@ -36,12 +36,8 @@ This project is an AI-powered profanity filtering tool for streamers and content
 
     ```bash
     # In one terminal, start the Node server
-    cd backend
-    nodemon index.js
-
-    # In another terminal, start the React frontend
-    cd deprofanity
-    npm start
+    cd ishowcode
+    npm run dev
     ```
 
 The app will be running at `http://localhost:3000`.
